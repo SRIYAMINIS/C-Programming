@@ -13,7 +13,7 @@ int main(void) {
 	}
 	}
 	else{
-            for(i=0;i<b-1;i+=2){
+        for(i=0;i<b-1;i+=2){
 	j=a[i];
 	a[i]=a[i+1];
 	a[i+1]=j;
